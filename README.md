@@ -13,8 +13,6 @@ Zaniah is a web application that leverages real-time stock data, news/social sen
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 | Layer              | Technology                                      | Badge |
 |--------------------|-------------------------------------------------|-------|
 | Dashboard         | Streamlit                                       | [![Streamlit](https://img.shields.io/badge/Streamlit-1.38+-red?style=flat&logo=streamlit)](https://streamlit.io/) |
