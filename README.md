@@ -4,7 +4,7 @@ Zaniah is a web application that leverages real-time stock data, news/social sen
 ## ✨ Features
 
 - **Real-time & Historical Stock Data** — Prices, volume, candlesticks
-- **Multimodal Sentiment Analysis** — News headlines, earnings tone, social buzz via FinBERT & Hugging Face Transformers
+- **Multimodal Analysis** — News headlines, earnings tone, social buzz via Hugging Face Transformers
 - **Machine Learning Signals** — XGBoost/LightGBM ensembles + time-series forecasting
 - **Backtesting Engine** — Strategy evaluation with Sharpe ratio, max drawdown, etc. (powered by vectorbt)
 - **Economic Indicators Dashboard** — Macro nowcasting with alternative proxies
